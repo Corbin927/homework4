@@ -12,9 +12,6 @@
     position: absolute;
 
 }
-html{
-
-}
 div{
     background-color: #F2F2F2;
     border: 2px solid black;
@@ -217,8 +214,7 @@ img:hover{
     padding: 10px;
     transition: box-shadow 2s, border-radius 3s, background-color 3s; 
 }
-.download:hover
-{
+.download:hover{
     color:rgb(44, 37, 37);
     box-shadow: 5px 5px darkblue;
     background-color: #f1ec70;
